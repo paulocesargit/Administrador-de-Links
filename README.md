@@ -12,7 +12,7 @@ Este é um administrador de links que permite aos usuários armazenar, organizar
 
 # Tecnologias 💻
 - React Native.
-- Typescript.
+- TypeScript.
 
 # Autor 
 
