@@ -6,7 +6,7 @@ Este é um administrador de links que permite aos usuários armazenar, organizar
 # Apresentação 👀
 
 <p align="center">
-  <img alt="Imagem de apresentação" src="./assets/adminlinks.png" width="100%">
+  <img alt="Imagem de apresentação" src="./assets/admlinks.png" width="100%">
 </p>
 
 
